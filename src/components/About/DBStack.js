@@ -1,33 +1,28 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import {
-  SiVisualstudiocode,
-  SiPostman,
-  SiSlack,
-  SiJira,
-  SiGithub,
-} from "react-icons/si";
+import { DiMongodb, DiMysql } from "react-icons/di";
+import { SiRedis, SiGraphql, SiPostgresql } from "react-icons/si";
 
-function Toolstack() {
+function DBStack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiJira />
+        <DiMysql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVisualstudiocode />
+        <DiMongodb />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPostman />
+        <SiRedis />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiSlack />
+        <SiPostgresql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiGithub />
+        <SiGraphql />
       </Col>
     </Row>
   );
 }
 
-export default Toolstack;
+export default DBStack;

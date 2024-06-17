@@ -1,33 +1,28 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import {
-  SiVisualstudiocode,
-  SiPostman,
-  SiSlack,
-  SiJira,
-  SiGithub,
-} from "react-icons/si";
+import { DiDocker } from "react-icons/di";
+import { SiKubernetes, SiTerraform, SiHelm, SiJenkins } from "react-icons/si";
 
-function Toolstack() {
+function DevOpsStack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiJira />
+        <DiDocker />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVisualstudiocode />
+        <SiKubernetes />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPostman />
+        <SiTerraform />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiSlack />
+        <SiHelm />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiGithub />
+        <SiJenkins />
       </Col>
     </Row>
   );
 }
 
-export default Toolstack;
+export default DevOpsStack;
