@@ -23,7 +23,7 @@ function Home2() {
               operationalize&nbsp;
               <i>
                 <b className="purple">
-                  cybersecurity software, cloud solutions, and SaaS products.{" "}
+                  cybersecurity software, cloud solutions, and SaaS products.
                 </b>
               </i>
               <br />
@@ -32,8 +32,8 @@ function Home2() {
               <i>
                 <b className="purple">
                   full-stack development, cloud architecture, security
-                </b>{" "}
-                and managing&nbsp;
+                </b>
+                &nbsp;and managing&nbsp;
                 <b className="purple">distributed engineering teams.</b>
               </i>
               <br />
