@@ -10,6 +10,7 @@ import convergesecurity from "../../Assets/Projects/convergesecurity.png";
 import smartauction from "../../Assets/Projects/smartauction.png";
 import personafi from "../../Assets/Projects/personafi.png";
 import collegeval from "../../Assets/Projects/collegeval.png";
+import managed from "../../Assets/Projects/managed-development-process.png";
 
 function Projects() {
   return (
@@ -113,10 +114,10 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={creatorcon}
+              imgPath={managed}
               isBlog={true}
-              title="Managed Software Development Process"
-              description="A handybook to identify and resolve Developer productivity anti-patterns, created by Andrew Zhao after working with dozens of engineering teams over a decade. It  tackles common pitfalls hindering developer productivity, offering practical strategies to streamline workflows, enhance communication, and implement effective code reviews. By learning to identify and resolve these anti-patterns."
+              title="Managed Development Process"
+              description="A framework to identify and resolve Developer productivity anti-patterns, created by Andrew Zhao after working with dozens of engineering teams over a decade. It  tackles common pitfalls hindering developer productivity, offering practical strategies to streamline workflows, enhance communication, and implement effective code reviews. By learning to identify and resolve these anti-patterns."
               ghLink=""
               demoLink=""
             />

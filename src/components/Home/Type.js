@@ -10,6 +10,7 @@ function Type() {
           "Cloud Architect",
           "Cybersecurity Officer",
           "Engineering Leader",
+          "People's Manager",
         ],
         autoStart: true,
         loop: true,
