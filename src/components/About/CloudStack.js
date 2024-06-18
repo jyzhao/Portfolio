@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { DiAws, DiGoogleCloudPlatform, DiDocker } from "react-icons/di";
+import { DiAws, DiGoogleCloudPlatform } from "react-icons/di";
 import { SiMicrosoftazure } from "react-icons/si";
 
 function CloudStack() {

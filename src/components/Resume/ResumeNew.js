@@ -1,8 +1,8 @@
-import React, { useState, useEffect } from "react";
+// import React, { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
-import { AiOutlineDownload } from "react-icons/ai";
-import ProjectCard from "../Projects/ProjectCards";
+// import { AiOutlineDownload } from "react-icons/ai";
+// import ProjectCard from "../Projects/ProjectCards";
 import Card from "react-bootstrap/Card";
 
 import docker from "../../Assets/Certifications/docker.png";
