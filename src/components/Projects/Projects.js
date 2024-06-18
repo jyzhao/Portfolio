@@ -110,6 +110,17 @@ function Projects() {
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here
             />
           </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={creatorcon}
+              isBlog={true}
+              title="Managed Software Development Process"
+              description="A handybook to identify and resolve Developer productivity anti-patterns, created by Andrew Zhao after working with dozens of engineering teams over a decade. It  tackles common pitfalls hindering developer productivity, offering practical strategies to streamline workflows, enhance communication, and implement effective code reviews. By learning to identify and resolve these anti-patterns."
+              ghLink=""
+              demoLink=""
+            />
+          </Col>
         </Row>
       </Container>
     </Container>

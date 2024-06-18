@@ -83,7 +83,7 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
-                to="/certifications"
+                to="/certification"
                 onClick={() => updateExpanded(false)}
               >
                 <AiOutlineSafetyCertificate style={{ marginBottom: "2px" }} />{" "}
