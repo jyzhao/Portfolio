@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3c8d0fd3.css",
-    "main.js": "/static/js/main.60e6547a.js",
+    "main.js": "/static/js/main.c98b86d3.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/dcat.png": "/static/media/dcat.fb2841ab9acbae5f8703.png",
@@ -10,6 +10,7 @@
     "static/media/ccms.png": "/static/media/ccms.cc81aefb8de4a1367945.png",
     "static/media/convergesecurity.png": "/static/media/convergesecurity.44baa5f6977dac9b28dd.png",
     "static/media/professional-cloud-security-engineer-certification.png": "/static/media/professional-cloud-security-engineer-certification.a715ebcb6cbcb84359e9.png",
+    "static/media/managed-development-process.png": "/static/media/managed-development-process.34762b9642166fa428f6.png",
     "static/media/cspo.png": "/static/media/cspo.31238c997499189cb7d4.png",
     "static/media/collegeval.png": "/static/media/collegeval.92b09bbe5431e53d2e30.png",
     "static/media/hashicorp-certified-terraform-associate-002.png": "/static/media/hashicorp-certified-terraform-associate-002.4836f5426e334c601e3a.png",
@@ -26,12 +27,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.3c8d0fd3.css.map": "/static/css/main.3c8d0fd3.css.map",
-    "main.60e6547a.js.map": "/static/js/main.60e6547a.js.map",
+    "main.c98b86d3.js.map": "/static/js/main.c98b86d3.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c8d0fd3.css",
-    "static/js/main.60e6547a.js"
+    "static/js/main.c98b86d3.js"
   ]
 }
