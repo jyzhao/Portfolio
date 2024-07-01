@@ -18,8 +18,10 @@ function AboutCard() {
               Senior Software Engineering Manager&nbsp;
             </span>
             at Deloitte, I am responsible for leading the development of&nbsp;
-            <span className="purple">InfraSec</span> and&nbsp;
-            <span className="purple">AppSec</span>&nbsp; products on&nbsp;
+            <span className="purple">large-scale distributed systems</span>{" "}
+            and&nbsp;
+            <span className="purple">high-rate data streaming pipelines</span>
+            &nbsp;on&nbsp;
             <span className="purple">AWS</span>,&nbsp;
             <span className="purple">GCP</span> and&nbsp;
             <span className="purple">Azure</span>.

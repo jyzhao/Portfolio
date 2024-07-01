@@ -23,7 +23,7 @@ function Home2() {
               operationalize&nbsp;
               <i>
                 <b className="purple">
-                  cybersecurity software, cloud solutions, and SaaS products.
+                  full stack software, cloud solutions, and SaaS products.
                 </b>
               </i>
               <br />
@@ -31,7 +31,7 @@ function Home2() {
               My expertise spans across&nbsp;
               <i>
                 <b className="purple">
-                  full-stack development, cloud architecture, security
+                  full-stack development, cloud architecture, cybersecurity
                 </b>
                 &nbsp;and managing&nbsp;
                 <b className="purple">distributed engineering teams.</b>
@@ -41,7 +41,8 @@ function Home2() {
               <b className="purple">AWS, GCP, Docker, Terraform, Agile</b> and
               oversee the&nbsp;
               <i>
-                <b className="purple">cybercloud security product portfolio</b>
+                <b className="purple">managed cloud</b>&nbsp;and&nbsp;
+                <b className="purple">cybersecurity product portfolio</b>
               </i>
               , driving the delivery of the roadmap.
             </p>

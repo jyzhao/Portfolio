@@ -106,7 +106,7 @@ function Projects() {
               imgPath={creatorcon}
               isBlog={false}
               title="CreatorCon"
-              description="CreatorConnect enables creators to monetize their content through brand partnerships, sponsorships, and advertising deals while providing businesses with a seamless way to promote their products and services through authentic and engaging content. Additionally, it offers advanced content delivery and data streaming capabilities to enhance the user experience and provide real-time insights."
+              description="CreatorCon enables creators to monetize their content through brand partnerships, sponsorships, and advertising deals while providing businesses with a seamless way to promote their products and services through authentic and engaging content. Additionally, it offers advanced content delivery and data streaming capabilities to enhance the user experience and provide real-time insights."
               // ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here
             />
