@@ -17,6 +17,6 @@ jobs:
 
       - name: Install & build
         run: |
-          gh auth login --with-token ${{github.token}}
+          echo "${{secrets.GITHUB_TOKEN}}" | gh auth login --with-token
           npm i
           npm run deploy
