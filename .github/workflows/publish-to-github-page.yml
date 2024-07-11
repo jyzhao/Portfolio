@@ -17,6 +17,6 @@ jobs:
 
       - name: Install & build
         run: |
-          gh auth login --with-token < ${{github.token}}
+          gh auth login --with-token ${{github.token}}
           npm i
           npm run deploy
