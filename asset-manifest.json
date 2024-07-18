@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.3c8d0fd3.css",
-    "main.js": "/static/js/main.ef145911.js",
+    "main.js": "/static/js/main.c42b8c15.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/personafi.png": "/static/media/personafi.316a21cb6f89126aaa60.png",
     "static/media/dcat.png": "/static/media/dcat.fb2841ab9acbae5f8703.png",
     "static/media/creatorcon.png": "/static/media/creatorcon.09773ee0702ec80a8a36.png",
-    "static/media/personafi.png": "/static/media/personafi.212d97317f183034f8a6.png",
     "static/media/ccms.png": "/static/media/ccms.cc81aefb8de4a1367945.png",
+    "static/media/inspectorapp.png": "/static/media/inspectorapp.e9adc3de01f1b6db00c9.png",
     "static/media/convergesecurity.png": "/static/media/convergesecurity.44baa5f6977dac9b28dd.png",
     "static/media/professional-cloud-security-engineer-certification.png": "/static/media/professional-cloud-security-engineer-certification.a715ebcb6cbcb84359e9.png",
     "static/media/managed-development-process.png": "/static/media/managed-development-process.34762b9642166fa428f6.png",
@@ -27,12 +28,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.3c8d0fd3.css.map": "/static/css/main.3c8d0fd3.css.map",
-    "main.ef145911.js.map": "/static/js/main.ef145911.js.map",
+    "main.c42b8c15.js.map": "/static/js/main.c42b8c15.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c8d0fd3.css",
-    "static/js/main.ef145911.js"
+    "static/js/main.c42b8c15.js"
   ]
 }
